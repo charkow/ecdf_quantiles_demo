@@ -1,6 +1,6 @@
 ## ECDF of Completion Parameter by Performance Quantiles
 
-### Start: [ECDF by Qunatiles](https://hub.mybinder.org/user/charkow-ecdf_quantiles_demo-ruh6h5dg/lab)
+### Start: [ECDF by Qunatiles](https://mybinder.org/v2/gh/charkow/ecdf_quantiles_demo/master?urlpath=lab%2Ftree%2Findex.ipynb)
 ### Usage:
 - Open Index.ipynb
 - **Run**: Kernel --> Restart Kernel and Run All Cells
