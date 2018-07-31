@@ -1,0 +1,15 @@
+name: ecdf_demo_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.6
+  - jupyterlab=0.32
+  - numpy=1.14
+  - pandas=0.23
+  - nodejs=9.11
+  - statsmodels=0.9
+  - ipywidgets=7.2
+  - pip:
+    - plotly==2.7.0
+
